@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-57c2b4a4.zappy5.app
+https://example.com
 חדשות מקומיות ולאומיות ישר מהשטח: פוליטיקה, ביטחון וכלכלה בכתבות עדכניות ומהימנות. מבזק העמק הוא מקור המידע האמין ביותר לתושבי האזור. היכנסו עכשיו.
 
 ### פוליטיקה
-https://-57c2b4a4.zappy5.app/politics
+https://example.com/politics
 סיקור פוליטי חד וחסר פשרות: ניתוחים, דיווחים ועדכונים שוטפים על הנעשה בממשלה ובכנסת. כי להבין פוליטיקה זה כוח — והעמק מדבר. הצטרפו לשיחה.
 
 ### מקומי
-https://-57c2b4a4.zappy5.app/local
+https://example.com/local
 אירועים מקומיים, סיפורי קהילה ועדכוני שטח מהאזור שאתם חיים בו. מבזק העמק מכסה את החדשות שמשפיעות ישירות על חייכם. כי השכונה שלכם חשובה — קראו עכשיו.
 
 ### צור קשר
-https://-57c2b4a4.zappy5.app/contact
+https://example.com/contact
 רוצים לדווח על אירוע, לשתף טיפ עיתונאי או ליצור שיתוף פעולה עם מערכת מבזק העמק? אנחנו כאן בשבילכם. כתבו לנו עכשיו ונחזור אליכם בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-57c2b4a4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-57c2b4a4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-57c2b4a4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-57c2b4a4.zappy5.app/contact
-- Endpoint: https://-57c2b4a4.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -75,6 +75,6 @@ media / news
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-57c2b4a4.zappy5.app/sitemap.xml
-- Robots: https://-57c2b4a4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-57c2b4a4.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
