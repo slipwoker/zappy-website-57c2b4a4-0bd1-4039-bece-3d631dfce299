@@ -1,0 +1,80 @@
+# מבזק העמק — Generative Engine Optimization Map
+
+> מבזק העמק is a Hebrew-language regional news outlet focused on covering local events in the Emek (valley) area alongside national Israeli news. The site has a bold, journalistic identity with a strong red color scheme, RTL Hebrew layout, and a serious yet accessible editorial tone. It covers topics like politics, security, and economics, with a community-first feel rooted in a specific geographic region.
+
+---
+
+## Pages
+
+### בית
+https://-57c2b4a4.zappy5.app
+חדשות מקומיות ולאומיות ישר מהשטח: פוליטיקה, ביטחון וכלכלה בכתבות עדכניות ומהימנות. מבזק העמק הוא מקור המידע האמין ביותר לתושבי האזור. היכנסו עכשיו.
+
+### פוליטיקה
+https://-57c2b4a4.zappy5.app/politics
+סיקור פוליטי חד וחסר פשרות: ניתוחים, דיווחים ועדכונים שוטפים על הנעשה בממשלה ובכנסת. כי להבין פוליטיקה זה כוח — והעמק מדבר. הצטרפו לשיחה.
+
+### מקומי
+https://-57c2b4a4.zappy5.app/local
+אירועים מקומיים, סיפורי קהילה ועדכוני שטח מהאזור שאתם חיים בו. מבזק העמק מכסה את החדשות שמשפיעות ישירות על חייכם. כי השכונה שלכם חשובה — קראו עכשיו.
+
+### צור קשר
+https://-57c2b4a4.zappy5.app/contact
+רוצים לדווח על אירוע, לשתף טיפ עיתונאי או ליצור שיתוף פעולה עם מערכת מבזק העמק? אנחנו כאן בשבילכם. כתבו לנו עכשיו ונחזור אליכם בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-57c2b4a4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-57c2b4a4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-57c2b4a4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-57c2b4a4.zappy5.app/contact
+- Endpoint: https://-57c2b4a4.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `subject` (text, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מבזק העמק
+מבזק העמק is a Hebrew-language regional news outlet focused on covering local events in the Emek (valley) area alongside national Israeli news. The site has a bold, journalistic identity with a strong red color scheme, RTL Hebrew layout, and a serious yet accessible editorial tone. It covers topics like politics, security, and economics, with a community-first feel rooted in a specific geographic region.
+
+## Target Audience
+- residents of the Emek (valley) region and general Israeli public
+- תושבי אזור העמק
+- הציבור הישראלי הכללי
+- מקצוענים צעירים בעמק
+
+## Industry
+media / news
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-57c2b4a4.zappy5.app/sitemap.xml
+- Robots: https://-57c2b4a4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-57c2b4a4.zappy5.app/llms-full.txt
